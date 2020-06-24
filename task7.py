@@ -21,4 +21,4 @@ my_list.append(profit_list)
 my_list.append(average_profit)
 
 with open("text_7(mine).json", "w", encoding="utf-8") as my_json:
-    json.dump(my_list, my_json)
+    json.dump(my_list, my_json, indent=4, ensure_ascii=False)
