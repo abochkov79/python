@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f806fda7-27da-41bb-800e-c47f47d9ee1a" name="Default Changelist" comment="" />
+    <list default="true" id="778402e8-270d-45a3-97e5-8614982408bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1dfNLIW6EPyN6r416HEhadxLhcw" />
+  <component name="ProjectId" id="1eLia6c5kLgVzlCkrbWaqC7BRTA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.task2">
+  <component name="RunManager" selected="Python.task7">
     <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,27 +67,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task6-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,7 +129,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task6-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task2" />
-        <item itemvalue="Python.task3" />
-        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task7" />
+        <item itemvalue="Python.task6" />
         <item itemvalue="Python.task5" />
-        <item itemvalue="Python.task6-1" />
+        <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task2" />
       </list>
     </recent_temporary>
   </component>
@@ -165,11 +174,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f806fda7-27da-41bb-800e-c47f47d9ee1a" name="Default Changelist" comment="" />
-      <created>1592812129469</created>
+      <changelist id="778402e8-270d-45a3-97e5-8614982408bf" name="Default Changelist" comment="" />
+      <created>1594107333693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1592812129469</updated>
+      <updated>1594107333693</updated>
     </task>
     <servers />
   </component>
@@ -186,25 +195,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1592847947487">
+    <state width="1882" height="273" key="GridCell.Tab.0.bottom" timestamp="1594192850992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592847947487" />
-    <state width="1881" height="279" key="GridCell.Tab.0.bottom" timestamp="1592830161481">
+    <state width="1882" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594192850992" />
+    <state width="1882" height="273" key="GridCell.Tab.0.center" timestamp="1594192850992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1881" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592830161481" />
-    <state width="1881" height="279" key="GridCell.Tab.0.center" timestamp="1592830161481">
+    <state width="1882" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594192850992" />
+    <state width="1882" height="273" key="GridCell.Tab.0.left" timestamp="1594192850992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1881" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592830161481" />
-    <state width="1881" height="279" key="GridCell.Tab.0.left" timestamp="1592830161481">
+    <state width="1882" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594192850992" />
+    <state width="1882" height="273" key="GridCell.Tab.0.right" timestamp="1594192850992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1881" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592830161481" />
-    <state width="1881" height="279" key="GridCell.Tab.0.right" timestamp="1592830161481">
+    <state width="1882" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594192850992" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1594129577450">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1881" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592830161481" />
+    <state x="623" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594129577450" />
   </component>
 </project>
